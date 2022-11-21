@@ -1,16 +1,12 @@
-### Hi there 👋
+### 📌 Connects
+<div>
+<a href="https://github.com/BoogieBugi"><img src=https://img.shields.io/badge/Github-000000?logo=github&style=flat-square>
+<a href="https://youtube.com/@Bu_Gi"><img src=https://img.shields.io/badge/Youtube-red?logo=youtube&style=flat-square>
+</div>
 
-<!--
-**BoogieBugi/BoogieBugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Languages
+<div>
+<img src=https://img.shields.io/badge/Java-orange?logo=github&style=flat-square>
+<img src=https://img.shields.io/badge/Python-000000?logo=python&style=flat-square>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieBugi)](https://github.com/BoogieBugi/github-readme-stats)
