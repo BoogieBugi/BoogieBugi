@@ -1,6 +1,6 @@
 <div align=center>
 <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieBugi&theme=dracula&langs_count=8>
-<div align=left>
+
 <h3> 📌 Connects </h3>	
 <div>
 <a href="https://github.com/BoogieBugi"><img src=https://img.shields.io/badge/Github-000000?logo=github&style=flat-square>
@@ -11,7 +11,6 @@
 <div>
 <img src=https://img.shields.io/badge/Java-orange?logo=github&style=flat-square>
 <img src=https://img.shields.io/badge/Python-000000?logo=python&style=flat-square>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=97E3FC&height=150&section=footer)
 
