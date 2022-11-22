@@ -12,6 +12,7 @@
 <img src=https://img.shields.io/badge/Java-orange?logo=github&style=flat-square>
 <img src=https://img.shields.io/badge/Python-000000?logo=python&style=flat-square>
 </div>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=97E3FC&height=150&section=footer)
+
+</div>
