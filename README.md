@@ -1,7 +1,8 @@
+
 <div align=center>
 <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=BoogieBugi&theme=dracula&langs_count=8>
 
-<h1>📘 Bugi 📘</h1>
+<h2>📘 Bugi 📘</h2>
 
 <h3> 📌 Connects </h3>	
 <div>
